@@ -19,18 +19,19 @@ A curated list of game development resources to make **magic** happen.
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Graphics](#graphics)
-  - [Assets/Placeholders](#assetsplaceholders)
-  - [Spritesheet Tools](#spritesheet-tools)
-  - [Bitmap Compression](#bitmap-compression)
-  - [Texture Tools](#texture-tools)
-  - [Character Generators](#character-generators)
-  - [Tile/Level Editors](#tilelevel-editors)
-  - [Animation](#animation)
-  - [Vector/Image Editor](#vectorimage-editor)
-  - [Modeling](#modeling)
-  - [Terrain Generators](#terrain-generators)
-  - [Voxel Editors](#voxel-editors)
+    - [Assets/Placeholders](#assetsplaceholders)
+    - [Spritesheet Tools](#spritesheet-tools)
+    - [Bitmap Compression](#bitmap-compression)
+    - [Texture Tools](#texture-tools)
+    - [Character Generators](#character-generators)
+    - [Tile/Level Editors](#tilelevel-editors)
+    - [Animation](#animation)
+    - [Vector/Image Editor](#vectorimage-editor)
+    - [Modeling](#modeling)
+    - [Terrain Generators](#terrain-generators)
+    - [Voxel Editors](#voxel-editors)
 - [Code](#code)
   - [Engines and Frameworks](#engines-and-frameworks)
   - [AI](#ai)
@@ -311,7 +312,7 @@ _Set of game frameworks, engines and platforms_
 - :money_with_wings: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
 - :tada: [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 - :tada: [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
-- :tada: [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
+- :tada: [PyGame-CE](https://pyga.me/docs/index.html) - Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library. 
 - :tada: [Pyxel](https://github.com/kitao/pyxel) - a retro game engine for Python.
 - :moneybag: [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
 - :tada: [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
